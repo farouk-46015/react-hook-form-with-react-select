@@ -9,7 +9,6 @@ function App() {
   const [submitData, setSubmitData] = useState(null);
 
   const handleWatch = (data) => {
-    console.log('ssss');
     setSubmitData(null);
     const { values, name, type } = data;
     setFormState(values);
@@ -125,7 +124,6 @@ function App() {
                 )}
                 name="weight"
                 label="Weight"
-                value={undefined}
                 adornment="kg"
                 type="number"
                 rules={{
