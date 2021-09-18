@@ -34,4 +34,4 @@ Simple example of how to use React Select with React Hook Form
 </FormWrapper>
 ```
 
-Try it on CodeSandbox [React Hook From with React Select](#)
+Try it on CodeSandbox [React Hook From with React Select](https://codesandbox.io/s/react-hook-form-with-react-select-4n8v6)
